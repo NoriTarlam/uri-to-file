@@ -1,4 +1,4 @@
-group 'in.lazymanstudios.uri_to_file'
+//group 'in.lazymanstudios.uri_to_file'
 version '1.0'
 
 buildscript {
